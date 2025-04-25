@@ -23,8 +23,6 @@ JavaScript — interactivity
 
 Bootstrap — responsive layout and components
 
-(Optional) PHP / Firebase / Node.js — if the site includes backend or dynamic content
-
 📦 Installation & Usage
 Clone the repository:
 
